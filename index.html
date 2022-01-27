@@ -7,14 +7,15 @@
     <script>
         $(document).ready(function(){
             $("button").click(function(){
-                alert("OnClick Worked!");
+                $("#stuff").toggle();
+                $("#morestuff").toggle();
             });
         });
-
     </script>
 </head>
 <body>
 <div id="stuff">Pineapple, Laundry Basket, Water Heater, Apple</div>
+<div id="morestuff" style="display: none">YOU CLICKED ME</div>
 <button>Click Me!</button>
 </body>
 </html>
