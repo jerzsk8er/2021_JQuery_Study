@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="732aefdc-f91f-40b0-9717-baa70cb3110d" name="Changes" comment="beep">
+      <change beforePath="$PROJECT_DIR$/.idea/2021_JQuery_Study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2021_JQuery_Study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Midterm Prep/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm Prep/Home.html" afterDir="false" />
     </list>
@@ -23,7 +26,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="24HUSnLkrbxhyimsia0loFwDnPL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2021-Bootstrap-5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../websitetesting" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -52,6 +59,7 @@
       <workItem from="1643287008944" duration="1276000" />
       <workItem from="1643384542240" duration="670000" />
       <workItem from="1643385578804" duration="242000" />
+      <workItem from="1643422617834" duration="2179000" />
     </task>
     <task id="LOCAL-00001" summary="beep">
       <created>1643288066366</created>
@@ -90,7 +98,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="beep" />
